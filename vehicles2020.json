@@ -1,0 +1,4975 @@
+[
+    {
+        "id": "71be65f9-5978-4ea8-8347-3223e4f74e5e",
+        "plate": "FWK769",
+        "active": true,
+        "internalNumber": "103",
+        "deviceId": "FLO-W7-0106",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10263",
+        "engineNumber": "J05EAUA20099",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 18
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "276831",
+            "operationCardExpeditionDate": 1577336400000,
+            "operationCardExpirationDate": 1640494800000,
+            "operationCardCompany": "MEDELLIN",
+            "operationCardInternalNumber": "103",
+            "mandatoryInsuranceNumber": "14326300011450",
+            "mandatoryInsuranceExpeditionDate": 1576472400000,
+            "mandatoryInsuranceExpirationDate": 1608094800000,
+            "mandatoryInsuranceIssuer": "SEGUROS DEL ESTADO S.A.",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1577336400000,
+            "technomechanicalExpirationDate": 1640494800000,
+            "technomechanicalIssuer": ""
+        },
+        "metadata": {
+            "createdBy": "arturo.lopez",
+            "createdAt": 1579549480565,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925067915
+        }
+    },
+    {
+        "id": "d1b4726b-9323-4689-a4c6-dfa15b91a647",
+        "plate": "FWK294",
+        "active": true,
+        "internalNumber": "102",
+        "deviceId": "FLO-W7-0018",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10261",
+        "engineNumber": "J05EUA20085",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 18
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "273054",
+            "operationCardExpeditionDate": 1569214800000,
+            "operationCardExpirationDate": 1632373200000,
+            "operationCardCompany": "Secretaria de Transporte y Tránsito Medellín (Ant)",
+            "operationCardInternalNumber": "102",
+            "mandatoryInsuranceNumber": "14328300008930",
+            "mandatoryInsuranceExpeditionDate": 1599973200000,
+            "mandatoryInsuranceExpirationDate": 1631509200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado S.A",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1569214800000,
+            "technomechanicalExpirationDate": 1632373200000,
+            "technomechanicalIssuer": ""
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1576094533448,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925084320
+        }
+    },
+    {
+        "id": "e2f73851-9648-4bc4-bba0-eb16d4b29c20",
+        "plate": "FWK163",
+        "active": true,
+        "internalNumber": "101",
+        "deviceId": "FLO-W7-0013",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10250",
+        "engineNumber": "J05EUA20050",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 18
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "272734",
+            "operationCardExpeditionDate": 1568178000000,
+            "operationCardExpirationDate": 1631336400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "101",
+            "mandatoryInsuranceNumber": "76842467-601586267",
+            "mandatoryInsuranceExpeditionDate": 1597467600000,
+            "mandatoryInsuranceExpirationDate": 1629003600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1568178000000,
+            "technomechanicalExpirationDate": 1631336400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575650611517,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925200426
+        }
+    },
+    {
+        "id": "d058658e-2097-499b-832e-01214a5c2bf4",
+        "plate": "FWK928",
+        "active": true,
+        "internalNumber": "100",
+        "deviceId": "FLO-W7-0040",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10313",
+        "engineNumber": "J05EUA20413",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 18
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "278047",
+            "operationCardExpeditionDate": 1582347600000,
+            "operationCardExpirationDate": 1645506000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "100",
+            "mandatoryInsuranceNumber": "",
+            "mandatoryInsuranceExpeditionDate": 1581310800000,
+            "mandatoryInsuranceExpirationDate": 1612933200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1582347600000,
+            "technomechanicalExpirationDate": 1645506000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575650155961,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925419806
+        }
+    },
+    {
+        "id": "b3fcc84c-d572-4d79-a767-3a9ae908304f",
+        "plate": "FVY678",
+        "active": true,
+        "internalNumber": "99",
+        "deviceId": "FLO-W7-0080",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTKXX10126",
+        "engineNumber": "J05EUA12082",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 18
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "263967",
+            "operationCardExpeditionDate": 1559106000000,
+            "operationCardExpirationDate": 1622264400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "99",
+            "mandatoryInsuranceNumber": "14328300005520",
+            "mandatoryInsuranceExpeditionDate": 1589950800000,
+            "mandatoryInsuranceExpirationDate": 1621659600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1590728400000,
+            "technomechanicalExpirationDate": 1622264400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575649861549,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925469560
+        }
+    },
+    {
+        "id": "b678baf5-c222-4d08-a09c-c7f7f120626e",
+        "plate": "EQT904",
+        "active": true,
+        "internalNumber": "98",
+        "deviceId": "FLO-W7-0066",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R75XJB017050",
+        "engineNumber": "4HK1-640876",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250112",
+            "operationCardExpeditionDate": 1598850000000,
+            "operationCardExpirationDate": 1661922000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "98",
+            "mandatoryInsuranceNumber": "14328300008170",
+            "mandatoryInsuranceExpeditionDate": 1597467600000,
+            "mandatoryInsuranceExpirationDate": 1629003600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "AT1317192607601",
+            "technomechanicalExpeditionDate": 1598158800000,
+            "technomechanicalExpirationDate": 1629694800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575649485857,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925489453
+        }
+    },
+    {
+        "id": "2050d63d-5fe0-4e2a-bce9-619e46db1df9",
+        "plate": "EQT314",
+        "active": true,
+        "internalNumber": "97",
+        "deviceId": "FLO-W7-0088",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R902JB000549",
+        "engineNumber": "4HK1-546654",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "235238",
+            "operationCardExpeditionDate": 1587358800000,
+            "operationCardExpirationDate": 1650430800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "97",
+            "mandatoryInsuranceNumber": "14328300004030",
+            "mandatoryInsuranceExpeditionDate": 1586581200000,
+            "mandatoryInsuranceExpirationDate": 1618117200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1592542800000,
+            "technomechanicalExpirationDate": 1624078800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575649096577,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925514795
+        }
+    },
+    {
+        "id": "11c4acd6-2d7c-4fd9-918c-926d0383e26e",
+        "plate": "EQT321",
+        "active": true,
+        "internalNumber": "96",
+        "deviceId": "FLO-W7-0084",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R909JB000550",
+        "engineNumber": "4HK1-546747",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "235239",
+            "operationCardExpeditionDate": 1587358800000,
+            "operationCardExpirationDate": 1650430800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "96",
+            "mandatoryInsuranceNumber": "14328300004040",
+            "mandatoryInsuranceExpeditionDate": 1586494800000,
+            "mandatoryInsuranceExpirationDate": 1618117200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1592542800000,
+            "technomechanicalExpirationDate": 1624078800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575648894939,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925536466
+        }
+    },
+    {
+        "id": "2187dc8a-b8ce-481a-b23b-e69335cdf94d",
+        "plate": "EQS451",
+        "active": true,
+        "internalNumber": "95",
+        "deviceId": "FLO-W7-0096",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R754JB009817",
+        "engineNumber": "4HK1-601625",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "271772",
+            "operationCardExpeditionDate": 1569474000000,
+            "operationCardExpirationDate": 1632632400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "95",
+            "mandatoryInsuranceNumber": "14328300008740",
+            "mandatoryInsuranceExpeditionDate": 1599454800000,
+            "mandatoryInsuranceExpirationDate": 1630990800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45549282",
+            "technomechanicalExpeditionDate": 1600750800000,
+            "technomechanicalExpirationDate": 1632286800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575648705177,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925560906
+        }
+    },
+    {
+        "id": "bcff6296-fc71-4c34-8f20-0d4499ef1554",
+        "plate": "EQS444",
+        "active": true,
+        "internalNumber": "94",
+        "deviceId": "FLO-W7-0022",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R758JB007889",
+        "engineNumber": "4HK1-597800",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "271771",
+            "operationCardExpeditionDate": 1569474000000,
+            "operationCardExpirationDate": 1632632400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "94",
+            "mandatoryInsuranceNumber": "14328300008730",
+            "mandatoryInsuranceExpeditionDate": 1599454800000,
+            "mandatoryInsuranceExpirationDate": 1630990800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45549230",
+            "technomechanicalExpeditionDate": 1600664400000,
+            "technomechanicalExpirationDate": 1632200400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575648514296,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925580192
+        }
+    },
+    {
+        "id": "445b2c7a-30a7-4291-94b2-18870e31c531",
+        "plate": "WMR304",
+        "active": true,
+        "internalNumber": "93",
+        "deviceId": "FLO-W7-0057",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R75XHB000632",
+        "engineNumber": "4HK1-458597",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255879",
+            "operationCardExpeditionDate": 1555736400000,
+            "operationCardExpirationDate": 1618894800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "93",
+            "mandatoryInsuranceNumber": "AT1329406344831",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43576532",
+            "technomechanicalExpeditionDate": 1592629200000,
+            "technomechanicalExpirationDate": 1624165200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575648328398,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925614080
+        }
+    },
+    {
+        "id": "b36eda9e-0c34-4167-8e6f-236828bae0ae",
+        "plate": "WMR198",
+        "active": true,
+        "internalNumber": "92",
+        "deviceId": "FLO-W7-0077",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R750HB001434",
+        "engineNumber": "4HK1-461094",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255548",
+            "operationCardExpeditionDate": 1553749200000,
+            "operationCardExpirationDate": 1616907600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "92",
+            "mandatoryInsuranceNumber": "AT1329406344853",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931283",
+            "technomechanicalExpeditionDate": 1584680400000,
+            "technomechanicalExpirationDate": 1616216400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575648059962,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925714683
+        }
+    },
+    {
+        "id": "978ba208-324f-40fb-95c8-6ee1d46ff921",
+        "plate": "WMR205",
+        "active": true,
+        "internalNumber": "91",
+        "deviceId": "FLO-W7-0061",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "GREEN"
+        ],
+        "chassisNumber": "9GCN1R751HB000633",
+        "engineNumber": "4HK1-458559",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255549",
+            "operationCardExpeditionDate": 1553749200000,
+            "operationCardExpirationDate": 1616907600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "91",
+            "mandatoryInsuranceNumber": "14328300000550",
+            "mandatoryInsuranceExpeditionDate": 1578718800000,
+            "mandatoryInsuranceExpirationDate": 1610341200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931303",
+            "technomechanicalExpeditionDate": 1584594000000,
+            "technomechanicalExpirationDate": 1616130000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575645015042,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925919302
+        }
+    },
+    {
+        "id": "9d6e857e-80a7-4c83-a887-1284c7ef790b",
+        "plate": "WMR172",
+        "active": true,
+        "internalNumber": "90",
+        "deviceId": "FLO-W7-0007",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R757HB001432",
+        "engineNumber": "4HK1-461085",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255868",
+            "operationCardExpeditionDate": 1554613200000,
+            "operationCardExpirationDate": 1617771600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "90",
+            "mandatoryInsuranceNumber": "AT1329406344761",
+            "mandatoryInsuranceExpeditionDate": 1577163600000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931887",
+            "technomechanicalExpeditionDate": 1592456400000,
+            "technomechanicalExpirationDate": 1623992400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575644733466,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925945580
+        }
+    },
+    {
+        "id": "0c425dec-07ef-4f7f-909a-b3129d6c5e83",
+        "plate": "WMR289",
+        "active": true,
+        "internalNumber": "89",
+        "deviceId": "FLO-W7-0030",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R750HB001448",
+        "engineNumber": "4HK1-463868",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255876",
+            "operationCardExpeditionDate": 1554354000000,
+            "operationCardExpirationDate": 1617512400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "89",
+            "mandatoryInsuranceNumber": "1432830000060",
+            "mandatoryInsuranceExpeditionDate": 1262840400000,
+            "mandatoryInsuranceExpirationDate": 1609995600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931845",
+            "technomechanicalExpeditionDate": 1592456400000,
+            "technomechanicalExpirationDate": 1623992400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575644513597,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604925981981
+        }
+    },
+    {
+        "id": "ca9cf683-2f62-40ae-9c02-862f9d532600",
+        "plate": "WMR170",
+        "active": true,
+        "internalNumber": "88",
+        "deviceId": "FLO-W7-0074",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R755HB001428",
+        "engineNumber": "4HK1-458861",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255904",
+            "operationCardExpeditionDate": 1554354000000,
+            "operationCardExpirationDate": 1617512400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "88",
+            "mandatoryInsuranceNumber": "AT1329406344783",
+            "mandatoryInsuranceExpeditionDate": 1577163600000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931707",
+            "technomechanicalExpeditionDate": 1593666000000,
+            "technomechanicalExpirationDate": 1625202000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575644278383,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926021166
+        }
+    },
+    {
+        "id": "f82bab97-d75c-48b4-9b6c-66aec636d1b7",
+        "plate": "WMR287",
+        "active": true,
+        "internalNumber": "87",
+        "deviceId": "FLO-W7-0075",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R756HB001244",
+        "engineNumber": "4HK1-458576",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255834",
+            "operationCardExpeditionDate": 1554267600000,
+            "operationCardExpirationDate": 1617426000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "87",
+            "mandatoryInsuranceNumber": "14328300001630",
+            "mandatoryInsuranceExpeditionDate": 1581224400000,
+            "mandatoryInsuranceExpirationDate": 1612846800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931551",
+            "technomechanicalExpeditionDate": 1592110800000,
+            "technomechanicalExpirationDate": 1623646800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575643963440,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926069375
+        }
+    },
+    {
+        "id": "96114be7-fec6-4425-a587-be5ee81338f8",
+        "plate": "WMR268",
+        "active": true,
+        "internalNumber": "86",
+        "deviceId": "FLO-W7-0004",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R752HB001242",
+        "engineNumber": "4HK1-458544",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255871",
+            "operationCardExpeditionDate": 1554613200000,
+            "operationCardExpirationDate": 1617771600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "86",
+            "mandatoryInsuranceNumber": "AT1329406344805",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931942",
+            "technomechanicalExpeditionDate": 1592456400000,
+            "technomechanicalExpirationDate": 1623992400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575643629028,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926090509
+        }
+    },
+    {
+        "id": "c35bc7ea-75b7-4de4-9e1b-05ac7bf8a69d",
+        "plate": "WMR161",
+        "active": true,
+        "internalNumber": "85",
+        "deviceId": "FLO-W7-0073",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R759HB017017",
+        "engineNumber": "4HK1-501058",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255865",
+            "operationCardExpeditionDate": 1554354000000,
+            "operationCardExpirationDate": 1617512400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "85",
+            "mandatoryInsuranceNumber": "14328300002170",
+            "mandatoryInsuranceExpeditionDate": 1582347600000,
+            "mandatoryInsuranceExpirationDate": 1614142800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931705",
+            "technomechanicalExpeditionDate": 1592456400000,
+            "technomechanicalExpirationDate": 1623992400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575643371222,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926126171
+        }
+    },
+    {
+        "id": "2fd151da-bca0-4772-a109-08ac3a844ec2",
+        "plate": "WMR295",
+        "active": true,
+        "internalNumber": "84",
+        "deviceId": "FLO-W7-0076",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R751HB001121",
+        "engineNumber": "4HK1-458564",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255878",
+            "operationCardExpeditionDate": 1554354000000,
+            "operationCardExpirationDate": 1617512400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "84",
+            "mandatoryInsuranceNumber": "AT1329406321156",
+            "mandatoryInsuranceExpeditionDate": 1577163600000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931717",
+            "technomechanicalExpeditionDate": 1593666000000,
+            "technomechanicalExpirationDate": 1625202000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575642678305,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926160363
+        }
+    },
+    {
+        "id": "69d8518e-e896-4cbd-bbba-095923851512",
+        "plate": "WMR281",
+        "active": true,
+        "internalNumber": "83",
+        "deviceId": "FLO-W7-0058",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R754HB001422",
+        "engineNumber": "4HK1-461466",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255833",
+            "operationCardExpeditionDate": 1554267600000,
+            "operationCardExpirationDate": 1617426000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "83",
+            "mandatoryInsuranceNumber": "",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "AT1329406321160",
+            "technomechanicalExpeditionDate": 1592370000000,
+            "technomechanicalExpirationDate": 1623906000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575642468273,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926212405
+        }
+    },
+    {
+        "id": "74252152-0d03-49e3-8e81-9b48ecc62eb1",
+        "plate": "WMR194",
+        "active": true,
+        "internalNumber": "82",
+        "deviceId": "FLO-W7-0062",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R750HB001417",
+        "engineNumber": "4HK1-456660",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255547",
+            "operationCardExpeditionDate": 1553749200000,
+            "operationCardExpirationDate": 1616907600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "82",
+            "mandatoryInsuranceNumber": "AT1329406321171",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931384",
+            "technomechanicalExpeditionDate": 1592110800000,
+            "technomechanicalExpirationDate": 1623646800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575642271790,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926262074
+        }
+    },
+    {
+        "id": "01420706-3f3d-4042-8fdc-566152212663",
+        "plate": "WDX365",
+        "active": true,
+        "internalNumber": "81",
+        "deviceId": "FLO-W7-0095",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCP0HXE3100876",
+        "engineNumber": "N04CUV16167",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "237651",
+            "operationCardExpeditionDate": 1526533200000,
+            "operationCardExpirationDate": 1589691600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "81",
+            "mandatoryInsuranceNumber": "14328300002180",
+            "mandatoryInsuranceExpeditionDate": 1582347600000,
+            "mandatoryInsuranceExpirationDate": 1614142800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42930980",
+            "technomechanicalExpeditionDate": 1584421200000,
+            "technomechanicalExpirationDate": 1615957200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575640518157,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926575343
+        }
+    },
+    {
+        "id": "0ed292a3-42b6-4c4a-b428-b1f496be44c3",
+        "plate": "TPX790",
+        "active": true,
+        "internalNumber": "80",
+        "deviceId": "FLO-W7-0091",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR71",
+        "year": 2007,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9GCNPR7137B008789",
+        "engineNumber": "360906",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "227388",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "80",
+            "mandatoryInsuranceNumber": "AT1329400767242",
+            "mandatoryInsuranceExpeditionDate": 1601182800000,
+            "mandatoryInsuranceExpirationDate": 1632718800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "36795243",
+            "technomechanicalExpeditionDate": 1581138000000,
+            "technomechanicalExpirationDate": 1612760400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575640285669,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926592245
+        }
+    },
+    {
+        "id": "6318ba61-900f-48b1-9126-d5f7a417ffd9",
+        "plate": "SMV591",
+        "active": true,
+        "internalNumber": "79",
+        "deviceId": "FLO-W7-0085",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2011,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9GCNPR712BB014995",
+        "engineNumber": "820584",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "246545",
+            "operationCardExpeditionDate": 1596862800000,
+            "operationCardExpirationDate": 1659934800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "79",
+            "mandatoryInsuranceNumber": "14328300008860",
+            "mandatoryInsuranceExpeditionDate": 1599714000000,
+            "mandatoryInsuranceExpirationDate": 1631250000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "46399748",
+            "technomechanicalExpeditionDate": 1576040400000,
+            "technomechanicalExpirationDate": 1607662800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575640010766,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926608462
+        }
+    },
+    {
+        "id": "2df946c7-8689-4bc1-a4d8-fca8603a77d7",
+        "plate": "TSG322",
+        "active": true,
+        "internalNumber": "78",
+        "deviceId": "FLO-W7-0056",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2009,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9GCNPR7119B012360",
+        "engineNumber": "615987",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "225219",
+            "operationCardExpeditionDate": 1552885200000,
+            "operationCardExpirationDate": 1618894800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "78",
+            "mandatoryInsuranceNumber": "AT1329396493834",
+            "mandatoryInsuranceExpeditionDate": 1599109200000,
+            "mandatoryInsuranceExpirationDate": 1615525200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43912297",
+            "technomechanicalExpeditionDate": 1591592400000,
+            "technomechanicalExpirationDate": 1623128400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575639796145,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926622318
+        }
+    },
+    {
+        "id": "94b9e088-0e87-44ac-8a07-4924c6c763fe",
+        "plate": "TSK342",
+        "active": true,
+        "internalNumber": "77",
+        "deviceId": "FLO-W7-0093",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR71",
+        "year": 2010,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9GCNPR718AB196958",
+        "engineNumber": "759512",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "241214",
+            "operationCardExpeditionDate": 1527310800000,
+            "operationCardExpirationDate": 1590469200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "77",
+            "mandatoryInsuranceNumber": "14328300009670",
+            "mandatoryInsuranceExpeditionDate": 1602565200000,
+            "mandatoryInsuranceExpirationDate": 1634101200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "41851805",
+            "technomechanicalExpeditionDate": 1583038800000,
+            "technomechanicalExpirationDate": 1614574800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575639263267,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926637441
+        }
+    },
+    {
+        "id": "88a0badb-126d-4bb3-8810-ead2ecdaf00a",
+        "plate": "TTM593",
+        "active": true,
+        "internalNumber": "76",
+        "deviceId": "FLO-W7-0002",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCPOH7E3100561",
+        "engineNumber": "NO4CUV14677",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265353",
+            "operationCardExpeditionDate": 1563166800000,
+            "operationCardExpirationDate": 1626325200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "76",
+            "mandatoryInsuranceNumber": "76347025-601568960",
+            "mandatoryInsuranceExpeditionDate": 1594098000000,
+            "mandatoryInsuranceExpirationDate": 1625720400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44702224",
+            "technomechanicalExpeditionDate": 1597899600000,
+            "technomechanicalExpirationDate": 1629435600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575638654484,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926668521
+        }
+    },
+    {
+        "id": "b59c72fe-983d-4ad4-92fe-129442a3a12d",
+        "plate": "TTN518",
+        "active": true,
+        "internalNumber": "75",
+        "deviceId": "FLO-W7-0003",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCNPR756EB028535",
+        "engineNumber": "4HK1-148130",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "231596",
+            "operationCardExpeditionDate": 1575349200000,
+            "operationCardExpirationDate": 1638507600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "75",
+            "mandatoryInsuranceNumber": "14328300009400",
+            "mandatoryInsuranceExpeditionDate": 1601442000000,
+            "mandatoryInsuranceExpirationDate": 1632978000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "40477808",
+            "technomechanicalExpeditionDate": 1573880400000,
+            "technomechanicalExpirationDate": 1605502800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575637820976,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926683934
+        }
+    },
+    {
+        "id": "98202597-b028-4979-8109-ca2c0cc199ab",
+        "plate": "WDZ235",
+        "active": true,
+        "internalNumber": "74",
+        "deviceId": "FLO-W7-0021",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCPOHXF3101916",
+        "engineNumber": "N04CUV19597",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255564",
+            "operationCardExpeditionDate": 1574398800000,
+            "operationCardExpirationDate": 1637557200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "74",
+            "mandatoryInsuranceNumber": "14328300002800",
+            "mandatoryInsuranceExpeditionDate": 1583816400000,
+            "mandatoryInsuranceExpirationDate": 1615352400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931408",
+            "technomechanicalExpeditionDate": 1591765200000,
+            "technomechanicalExpirationDate": 1623301200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575587755637,
+            "updatedBy": "juan.diegortiz",
+            "updatedAt": 1600448005356
+        }
+    },
+    {
+        "id": "b8b52516-72e3-43ee-b1b3-8767f7866a55",
+        "plate": "TPP700",
+        "active": true,
+        "internalNumber": "73",
+        "deviceId": "FLO-W7-0043",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "DAIHATSU",
+        "model": "DELTA V128LD",
+        "year": 2003,
+        "emissionsStandard": "EURO 1",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "V12850787",
+        "engineNumber": "15B1732378",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "225221",
+            "operationCardExpeditionDate": 1566795600000,
+            "operationCardExpirationDate": 1629954000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "73",
+            "mandatoryInsuranceNumber": "14328300001370",
+            "mandatoryInsuranceExpeditionDate": 1580878800000,
+            "mandatoryInsuranceExpirationDate": 1612587600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "41850715",
+            "technomechanicalExpeditionDate": 1581310800000,
+            "technomechanicalExpirationDate": 1612933200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575586550355,
+            "updatedBy": "carlos.garcia",
+            "updatedAt": 1594084608516
+        }
+    },
+    {
+        "id": "0b5e30e4-c4e8-49b9-b299-a0df8b614a01",
+        "plate": "TPP627",
+        "active": true,
+        "internalNumber": "72",
+        "deviceId": "FLO-W7-0060",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "DAIHATSU",
+        "model": "DELTA V128LD",
+        "year": 2004,
+        "emissionsStandard": "EURO 1",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "V12850775",
+        "engineNumber": "15B1731367",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "225220",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "72",
+            "mandatoryInsuranceNumber": "14328300001060",
+            "mandatoryInsuranceExpeditionDate": 1579928400000,
+            "mandatoryInsuranceExpirationDate": 1611550800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "36795167",
+            "technomechanicalExpeditionDate": 1581138000000,
+            "technomechanicalExpirationDate": 1612760400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575586314942,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926733317
+        }
+    },
+    {
+        "id": "ff98887a-2379-418f-87f3-b7730b873dc8",
+        "plate": "TTN454",
+        "active": true,
+        "internalNumber": "71",
+        "deviceId": "FLO-W7-0068",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "DELTA V128LD",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9F3UCP0HXE3100778",
+        "engineNumber": "N04CUV15834",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "2376510",
+            "operationCardExpeditionDate": 1575954000000,
+            "operationCardExpirationDate": 1639112400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "71",
+            "mandatoryInsuranceNumber": "14328300002180",
+            "mandatoryInsuranceExpeditionDate": 1581051600000,
+            "mandatoryInsuranceExpirationDate": 1612674000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42930980",
+            "technomechanicalExpeditionDate": 1576818000000,
+            "technomechanicalExpirationDate": 1608440400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575585003282,
+            "updatedBy": "carlos.garcia",
+            "updatedAt": 1594084585407
+        }
+    },
+    {
+        "id": "29e746ea-b105-4a61-95a6-5be4c143400b",
+        "plate": "WDX284",
+        "active": true,
+        "internalNumber": "70",
+        "deviceId": "FLO-W7-0005",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCP0H5E3100879",
+        "engineNumber": "N04CUV16169",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "225218",
+            "operationCardExpeditionDate": 1580446800000,
+            "operationCardExpirationDate": 1643605200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "70",
+            "mandatoryInsuranceNumber": "13428300004400",
+            "mandatoryInsuranceExpeditionDate": 1580878800000,
+            "mandatoryInsuranceExpirationDate": 1612501200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43547520",
+            "technomechanicalExpeditionDate": 1581570000000,
+            "technomechanicalExpirationDate": 1613192400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575584575934,
+            "updatedBy": "carlos.garcia",
+            "updatedAt": 1594084573822
+        }
+    },
+    {
+        "id": "726465a1-ef60-45ae-bc21-54d13109fa20",
+        "plate": "WDX092",
+        "active": true,
+        "internalNumber": "69",
+        "deviceId": "FLO-W7-0020",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R752EB0033183",
+        "engineNumber": "4HK1-162225",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "232730",
+            "operationCardExpeditionDate": 1580101200000,
+            "operationCardExpirationDate": 1643259600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "69",
+            "mandatoryInsuranceNumber": "14328300010520",
+            "mandatoryInsuranceExpeditionDate": 1574312400000,
+            "mandatoryInsuranceExpirationDate": 1605848400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42930880",
+            "technomechanicalExpeditionDate": 1584334800000,
+            "technomechanicalExpirationDate": 1615870800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575584184303,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926809732
+        }
+    },
+    {
+        "id": "3f42202a-adb5-4c8d-a73e-93b64e3e40e7",
+        "plate": "FVY706",
+        "active": true,
+        "internalNumber": "68",
+        "deviceId": "FLO-W7-0065",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FG9JGTZ",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTKXX10128",
+        "engineNumber": "J05EUA12084",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "264096",
+            "operationCardExpeditionDate": 1559278800000,
+            "operationCardExpirationDate": 1622437200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "68",
+            "mandatoryInsuranceNumber": "76258881-601551894",
+            "mandatoryInsuranceExpeditionDate": 1589950800000,
+            "mandatoryInsuranceExpirationDate": 1621573200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1575583411129,
+            "technomechanicalExpirationDate": 1622437200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575583871738,
+            "updatedBy": "helena.santana@nebulae.com.co",
+            "updatedAt": 1604850950347
+        }
+    },
+    {
+        "id": "a9ced6c3-8e1f-44f2-be95-ebe85ec09aaf",
+        "plate": "FWK872",
+        "active": true,
+        "internalNumber": "67",
+        "deviceId": "FLO-W7-0016",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R751LB004156",
+        "engineNumber": "4HK1-791510",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "267180",
+            "operationCardExpeditionDate": 1579323600000,
+            "operationCardExpirationDate": 1642482000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "67",
+            "mandatoryInsuranceNumber": "14328300005460",
+            "mandatoryInsuranceExpeditionDate": 1579150800000,
+            "mandatoryInsuranceExpirationDate": 1610773200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44701225",
+            "technomechanicalExpeditionDate": 1581051600000,
+            "technomechanicalExpirationDate": 1644210000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575551671026,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926861336
+        }
+    },
+    {
+        "id": "8179ea11-e3ba-43e4-b790-e72973aa3ac0",
+        "plate": "TNF504",
+        "active": true,
+        "internalNumber": "66",
+        "deviceId": "FLO-W7-0063",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FB4J",
+        "year": 2007,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "JHDFB4JJT7XX10796",
+        "engineNumber": "J05CTE15186",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "267172",
+            "operationCardExpeditionDate": 1565931600000,
+            "operationCardExpirationDate": 1629090000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "66",
+            "mandatoryInsuranceNumber": "14328300008240",
+            "mandatoryInsuranceExpeditionDate": 1629262800000,
+            "mandatoryInsuranceExpirationDate": 1629262800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45550014",
+            "technomechanicalExpeditionDate": 1601787600000,
+            "technomechanicalExpirationDate": 1633323600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575551369881,
+            "updatedBy": "juan.diegortiz",
+            "updatedAt": 1603229178808
+        }
+    },
+    {
+        "id": "4add5dcb-7f82-4b0e-81ed-20cb7b188268",
+        "plate": "SMV149",
+        "active": true,
+        "internalNumber": "65",
+        "deviceId": "FLO-W7-0006",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2010,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNPR718AB207358",
+        "engineNumber": "772469",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250542",
+            "operationCardExpeditionDate": 1601701200000,
+            "operationCardExpirationDate": 1666414800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "65",
+            "mandatoryInsuranceNumber": "14328300009940",
+            "mandatoryInsuranceExpeditionDate": 1603256400000,
+            "mandatoryInsuranceExpirationDate": 1634792400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931434",
+            "technomechanicalExpeditionDate": 1592024400000,
+            "technomechanicalExpirationDate": 1623560400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575550816445,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604926979534
+        }
+    },
+    {
+        "id": "df58d424-f14d-4e58-89f8-c42e80a73fec",
+        "plate": "TSK578",
+        "active": true,
+        "internalNumber": "64",
+        "deviceId": "FLO-W7-0054",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2010,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN5AB003825",
+        "engineNumber": "E1T146775",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "232728",
+            "operationCardExpeditionDate": 1580446800000,
+            "operationCardExpirationDate": 1643605200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "64",
+            "mandatoryInsuranceNumber": "14328300005140",
+            "mandatoryInsuranceExpeditionDate": 1589000400000,
+            "mandatoryInsuranceExpirationDate": 1620536400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "41850203",
+            "technomechanicalExpeditionDate": 1580706000000,
+            "technomechanicalExpirationDate": 1612328400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575550494893,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927254701
+        }
+    },
+    {
+        "id": "d39b2da6-fbb2-4ad6-989f-254e93c9852a",
+        "plate": "WMR292",
+        "active": true,
+        "internalNumber": "63",
+        "deviceId": "FLO-W7-0015",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R753HB000634",
+        "engineNumber": "4HK1-458592",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255877",
+            "operationCardExpeditionDate": 1554440400000,
+            "operationCardExpirationDate": 1617598800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "63",
+            "mandatoryInsuranceNumber": "AT1329406320972",
+            "mandatoryInsuranceExpeditionDate": 1545627600000,
+            "mandatoryInsuranceExpirationDate": 1577077200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931844",
+            "technomechanicalExpeditionDate": 1592283600000,
+            "technomechanicalExpirationDate": 1623819600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575550197250,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927286037
+        }
+    },
+    {
+        "id": "3c4a5229-85bc-4844-984f-c9234a242cd8",
+        "plate": "TPZ673",
+        "active": true,
+        "internalNumber": "62",
+        "deviceId": "FLO-W7-0011",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2007,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CPX7B003006",
+        "engineNumber": "E1T138233",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 32,
+            "standing": 14
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "269798",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "62",
+            "mandatoryInsuranceNumber": "13734800008341",
+            "mandatoryInsuranceExpeditionDate": 1574398800000,
+            "mandatoryInsuranceExpirationDate": 1606021200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "41849151",
+            "technomechanicalExpeditionDate": 1578805200000,
+            "technomechanicalExpirationDate": 1610427600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575549783375,
+            "updatedBy": "juan.diegortiz",
+            "updatedAt": 1586722263411
+        }
+    },
+    {
+        "id": "ddc992dd-6b2d-4be0-b0e8-de5b506f2fb4",
+        "plate": "WDZ742",
+        "active": true,
+        "internalNumber": "61",
+        "deviceId": "FLO-W7-0042",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JKTZ",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JKTFXX10511",
+        "engineNumber": "J05EUA10603",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "261557",
+            "operationCardExpeditionDate": 1561179600000,
+            "operationCardExpirationDate": 1624338000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "61",
+            "mandatoryInsuranceNumber": "14328300006610",
+            "mandatoryInsuranceExpeditionDate": 1592974800000,
+            "mandatoryInsuranceExpirationDate": 1624510800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43537095",
+            "technomechanicalExpeditionDate": 1592629200000,
+            "technomechanicalExpirationDate": 1624165200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575549370937,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928420511
+        }
+    },
+    {
+        "id": "81ca369c-6866-4dac-b176-608df19401f8",
+        "plate": "TSK060",
+        "active": true,
+        "internalNumber": "60",
+        "deviceId": "",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2010,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CPOAB003829",
+        "engineNumber": "E1T146772",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "271781",
+            "operationCardExpeditionDate": 1569301200000,
+            "operationCardExpirationDate": 1632459600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "60",
+            "mandatoryInsuranceNumber": "1428300007640",
+            "mandatoryInsuranceExpeditionDate": 1595480400000,
+            "mandatoryInsuranceExpirationDate": 1627016400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "46578688",
+            "technomechanicalExpeditionDate": 1575176400000,
+            "technomechanicalExpirationDate": 1606798800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575549016097,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604916404120
+        }
+    },
+    {
+        "id": "a6a3bd26-e1e0-490f-b403-e004ec51ecf0",
+        "plate": "TSG139",
+        "active": true,
+        "internalNumber": "59",
+        "deviceId": "FLO-W7-0045",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2008,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN98B003336",
+        "engineNumber": "E1T143572",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265597",
+            "operationCardExpeditionDate": 1566104400000,
+            "operationCardExpirationDate": 1629262800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "59",
+            "mandatoryInsuranceNumber": "14328300000810",
+            "mandatoryInsuranceExpeditionDate": 1579496400000,
+            "mandatoryInsuranceExpirationDate": 1611118800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44112083",
+            "technomechanicalExpeditionDate": 1595394000000,
+            "technomechanicalExpirationDate": 1626930000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575548696394,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927374905
+        }
+    },
+    {
+        "id": "e4776501-eaac-4e81-abea-56d17fe9d452",
+        "plate": "TSJ718",
+        "active": true,
+        "internalNumber": "58",
+        "deviceId": "FLO-W7-0098",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2010,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN8AB003818",
+        "engineNumber": "E1T146918",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265599",
+            "operationCardExpeditionDate": 1565672400000,
+            "operationCardExpirationDate": 1628830800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "58",
+            "mandatoryInsuranceNumber": "14328300003400",
+            "mandatoryInsuranceExpeditionDate": 1585285200000,
+            "mandatoryInsuranceExpirationDate": 1616734800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44720538",
+            "technomechanicalExpeditionDate": 1597813200000,
+            "technomechanicalExpirationDate": 1629349200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575548407016,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927393299
+        }
+    },
+    {
+        "id": "254b803c-bed9-4d59-a8ff-fb5a4d2b1d3a",
+        "plate": "TSG566",
+        "active": true,
+        "internalNumber": "57",
+        "deviceId": "FLO-W7-0041",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2009,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN89B003538",
+        "engineNumber": "E1T144925",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "254447",
+            "operationCardExpeditionDate": 1547787600000,
+            "operationCardExpirationDate": 1610946000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "57",
+            "mandatoryInsuranceNumber": "13428300004730",
+            "mandatoryInsuranceExpeditionDate": 1587790800000,
+            "mandatoryInsuranceExpirationDate": 1619499600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44690554",
+            "technomechanicalExpeditionDate": 1597035600000,
+            "technomechanicalExpirationDate": 1628571600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575548167256,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927442980
+        }
+    },
+    {
+        "id": "3eb7fd11-9cd0-48f9-a6c2-64dac3da912e",
+        "plate": "TPZ905",
+        "active": true,
+        "internalNumber": "56",
+        "deviceId": "FLO-W7-0046",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2008,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN88B003120",
+        "engineNumber": "E1T140203",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "267181",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "56",
+            "mandatoryInsuranceNumber": "14328300007220",
+            "mandatoryInsuranceExpeditionDate": 1594616400000,
+            "mandatoryInsuranceExpirationDate": 1626152400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44720259",
+            "technomechanicalExpeditionDate": 1596603600000,
+            "technomechanicalExpirationDate": 1628139600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575547849755,
+            "updatedBy": "carlos.garcia",
+            "updatedAt": 1601483725286
+        }
+    },
+    {
+        "id": "92e3985e-7615-46bf-800f-5828e62096d7",
+        "plate": "WMR177",
+        "active": true,
+        "internalNumber": "55",
+        "deviceId": "FLO-W7-0107",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R754HB001419",
+        "engineNumber": "4HK1-456655",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255870",
+            "operationCardExpeditionDate": 1555736400000,
+            "operationCardExpirationDate": 1618894800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "55",
+            "mandatoryInsuranceNumber": "AT1329406320961",
+            "mandatoryInsuranceExpeditionDate": 1577163600000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43170037",
+            "technomechanicalExpeditionDate": 1592283600000,
+            "technomechanicalExpirationDate": 1623819600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575547584300,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927487717
+        }
+    },
+    {
+        "id": "9d74ab4b-9951-4f9e-9194-232dcdf23c6c",
+        "plate": "WMR276",
+        "active": true,
+        "internalNumber": "54",
+        "deviceId": "FLO-W7-0010",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R756HB001423",
+        "engineNumber": "4HK1-456680",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255873",
+            "operationCardExpeditionDate": 1554354000000,
+            "operationCardExpirationDate": 1617512400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "54",
+            "mandatoryInsuranceNumber": "AT1329406320946",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931638",
+            "technomechanicalExpeditionDate": 1592283600000,
+            "technomechanicalExpirationDate": 1623819600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575547343114,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927525537
+        }
+    },
+    {
+        "id": "3eecb19e-820f-497f-91c5-d2dcd2d96fb9",
+        "plate": "SMX583",
+        "active": true,
+        "internalNumber": "53",
+        "deviceId": "FLO-W7-00108",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2012,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R757CB054009",
+        "engineNumber": "4HK1-934595",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "233371",
+            "operationCardExpeditionDate": 1580101200000,
+            "operationCardExpirationDate": 1644210000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "53",
+            "mandatoryInsuranceNumber": "14328300010040",
+            "mandatoryInsuranceExpeditionDate": 1572411600000,
+            "mandatoryInsuranceExpirationDate": 1603947600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "41850195",
+            "technomechanicalExpeditionDate": 1580706000000,
+            "technomechanicalExpirationDate": 1612328400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575481602844,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927581125
+        }
+    },
+    {
+        "id": "992c269b-846b-4adb-83fe-e3e72983a7f1",
+        "plate": "WDX449",
+        "active": true,
+        "internalNumber": "52",
+        "deviceId": "FLO-W7-0027",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCP0H4E3100842",
+        "engineNumber": "N04CUV16102",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "234091",
+            "operationCardExpeditionDate": 1589950800000,
+            "operationCardExpirationDate": 1653022800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "52",
+            "mandatoryInsuranceNumber": "14328300002990",
+            "mandatoryInsuranceExpeditionDate": 1552712400000,
+            "mandatoryInsuranceExpirationDate": 1615870800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42930963",
+            "technomechanicalExpeditionDate": 1552712400000,
+            "technomechanicalExpirationDate": 1615870800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575481305022,
+            "updatedBy": "carlos.garcia",
+            "updatedAt": 1601480711966
+        }
+    },
+    {
+        "id": "6b35fc44-1619-402d-a26e-cc39a7579de5",
+        "plate": "WMR277",
+        "active": true,
+        "internalNumber": "51",
+        "deviceId": "FLO-W7-0101",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R753HB018826",
+        "engineNumber": "4HK1-503945",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255874",
+            "operationCardExpeditionDate": 1554440400000,
+            "operationCardExpirationDate": 1617598800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "51",
+            "mandatoryInsuranceNumber": "14328300002910",
+            "mandatoryInsuranceExpeditionDate": 1583816400000,
+            "mandatoryInsuranceExpirationDate": 1615611600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931786",
+            "technomechanicalExpeditionDate": 1591938000000,
+            "technomechanicalExpirationDate": 1623474000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575481027130,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927711906
+        }
+    },
+    {
+        "id": "603bd8e0-d652-4e7a-b9be-31c47be1dccc",
+        "plate": "TSH835",
+        "active": true,
+        "internalNumber": "50",
+        "deviceId": "FLO-W7-0071",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC4JKUZ",
+        "year": 2009,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "JHDFC4JKU9XX10518",
+        "engineNumber": "J05CTF18618",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265598",
+            "operationCardExpeditionDate": 1563166800000,
+            "operationCardExpirationDate": 1626325200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "50",
+            "mandatoryInsuranceNumber": "14328300008450",
+            "mandatoryInsuranceExpeditionDate": 1598590800000,
+            "mandatoryInsuranceExpirationDate": 1630126800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45550133",
+            "technomechanicalExpeditionDate": 1602824400000,
+            "technomechanicalExpirationDate": 1634360400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575480345673,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1605012483457
+        }
+    },
+    {
+        "id": "0dda3010-9926-457a-b3cb-b6ac2e0bde97",
+        "plate": "FWK815",
+        "active": true,
+        "internalNumber": "49",
+        "deviceId": "FLO-W7-0105",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10264",
+        "engineNumber": "JO5EUA20100",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 18
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255564",
+            "operationCardExpeditionDate": 1579323600000,
+            "operationCardExpirationDate": 1642482000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "49",
+            "mandatoryInsuranceNumber": "14328300002800",
+            "mandatoryInsuranceExpeditionDate": 1578546000000,
+            "mandatoryInsuranceExpirationDate": 1610168400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931408",
+            "technomechanicalExpeditionDate": 1579669200000,
+            "technomechanicalExpirationDate": 1642827600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575480022990,
+            "updatedBy": "carlos.garcia",
+            "updatedAt": 1601480859262
+        }
+    },
+    {
+        "id": "c945e966-eb95-4159-9d91-d493cec92bc5",
+        "plate": "EQT791",
+        "active": true,
+        "internalNumber": "48",
+        "deviceId": "FLO-W7-0039",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTJXX10108",
+        "engineNumber": "J05EUA11296",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "249642",
+            "operationCardExpeditionDate": 1597381200000,
+            "operationCardExpirationDate": 1660453200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "48",
+            "mandatoryInsuranceNumber": "14328300007210",
+            "mandatoryInsuranceExpeditionDate": 1594616400000,
+            "mandatoryInsuranceExpirationDate": 1626152400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1597813200000,
+            "technomechanicalExpirationDate": 1629349200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575479677160,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927892915
+        }
+    },
+    {
+        "id": "9b33d6ce-6ac9-4464-b8f4-06d737de5a75",
+        "plate": "EQT875",
+        "active": true,
+        "internalNumber": "47",
+        "deviceId": "FLO-W7-0072",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R907JB000417",
+        "engineNumber": "4HK1-546876",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250079",
+            "operationCardExpeditionDate": 1598763600000,
+            "operationCardExpirationDate": 1661835600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "47",
+            "mandatoryInsuranceNumber": "14328300007650",
+            "mandatoryInsuranceExpeditionDate": 1595566800000,
+            "mandatoryInsuranceExpirationDate": 1627102800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1598072400000,
+            "technomechanicalExpirationDate": 1629608400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575479477479,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604927914552
+        }
+    },
+    {
+        "id": "d2f6be2d-149d-4eb2-9fb0-f4d6ead8d731",
+        "plate": "EQS490",
+        "active": true,
+        "internalNumber": "46",
+        "deviceId": "FLO-W7-0082",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R756HB029447",
+        "engineNumber": "4HK1-527806",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "",
+            "operationCardExpeditionDate": 1570942800000,
+            "operationCardExpirationDate": 1634101200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "46",
+            "mandatoryInsuranceNumber": "14328300007740",
+            "mandatoryInsuranceExpeditionDate": 1595826000000,
+            "mandatoryInsuranceExpirationDate": 1627275600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "46178332",
+            "technomechanicalExpeditionDate": 1573966800000,
+            "technomechanicalExpirationDate": 1605589200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575479254426,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928100414
+        }
+    },
+    {
+        "id": "f1992a81-fd91-4174-851e-a5bfae43bb7b",
+        "plate": "TSJ296",
+        "active": true,
+        "internalNumber": "45",
+        "deviceId": "FLO-W7-0090",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2010,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9GCNPR719AB172751",
+        "engineNumber": "732317",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "259270",
+            "operationCardExpeditionDate": 1560834000000,
+            "operationCardExpirationDate": 1623992400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "45",
+            "mandatoryInsuranceNumber": "14328300004190",
+            "mandatoryInsuranceExpeditionDate": 1587790800000,
+            "mandatoryInsuranceExpirationDate": 1619326800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44720128",
+            "technomechanicalExpeditionDate": 1596430800000,
+            "technomechanicalExpirationDate": 1627966800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575478827549,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928124249
+        }
+    },
+    {
+        "id": "edbc2e03-8cff-489f-80c5-d5a19aebea5d",
+        "plate": "WDZ187",
+        "active": true,
+        "internalNumber": "44",
+        "deviceId": "FLO-W7-0100",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCNPR752FB029313",
+        "engineNumber": "4HK1-265140",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255563",
+            "operationCardExpeditionDate": 1552798800000,
+            "operationCardExpirationDate": 1615957200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "44",
+            "mandatoryInsuranceNumber": "14328300009660",
+            "mandatoryInsuranceExpeditionDate": 1602306000000,
+            "mandatoryInsuranceExpirationDate": 1633842000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42930809",
+            "technomechanicalExpeditionDate": 1583989200000,
+            "technomechanicalExpirationDate": 1615525200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575477818375,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928776112
+        }
+    },
+    {
+        "id": "5142e81c-891e-487a-a1c0-f28fde086022",
+        "plate": "EQW495",
+        "active": true,
+        "internalNumber": "43",
+        "deviceId": "FLO-W7-0059",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTKXX1025",
+        "engineNumber": "J05EUA12081",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "254268",
+            "operationCardExpeditionDate": 1547701200000,
+            "operationCardExpirationDate": 1610859600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "43",
+            "mandatoryInsuranceNumber": "AT1329406719482",
+            "mandatoryInsuranceExpeditionDate": 1577336400000,
+            "mandatoryInsuranceExpirationDate": 1608958800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1578718800000,
+            "technomechanicalExpirationDate": 1610341200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575477424336,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928208500
+        }
+    },
+    {
+        "id": "9659b0f3-12e8-49ad-88a7-a21bed334aff",
+        "plate": "EQW114",
+        "active": true,
+        "internalNumber": "42",
+        "deviceId": "FLO-W7-0175",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC 9JGTZ",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTJXX10113",
+        "engineNumber": "J05EUA11385",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "251254",
+            "operationCardExpeditionDate": 1603774800000,
+            "operationCardExpirationDate": 1666846800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "42",
+            "mandatoryInsuranceNumber": "14328300009650",
+            "mandatoryInsuranceExpeditionDate": 1602133200000,
+            "mandatoryInsuranceExpirationDate": 1633669200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1571893200000,
+            "technomechanicalExpirationDate": 1603515600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575476990606,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928233270
+        }
+    },
+    {
+        "id": "a4cad344-901e-4a11-8bba-6190d384d41b",
+        "plate": "WDY465",
+        "active": true,
+        "internalNumber": "41",
+        "deviceId": "FLO-W7-0047",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCNPR752FB002435",
+        "engineNumber": "4HK1-211552",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250302",
+            "operationCardExpeditionDate": 1602219600000,
+            "operationCardExpirationDate": 1665982800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "41",
+            "mandatoryInsuranceNumber": "14328300005200",
+            "mandatoryInsuranceExpeditionDate": 1589259600000,
+            "mandatoryInsuranceExpirationDate": 1620795600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45652669",
+            "technomechanicalExpeditionDate": 1602392400000,
+            "technomechanicalExpirationDate": 1633928400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575476312243,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928267508
+        }
+    },
+    {
+        "id": "a0e4a93d-3297-4099-8827-cca52fd309bb",
+        "plate": "EQT513",
+        "active": true,
+        "internalNumber": "40",
+        "deviceId": "FLO-W7-0092",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R901JB016550",
+        "engineNumber": "4HK1-630365",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "242361",
+            "operationCardExpeditionDate": 1592542800000,
+            "operationCardExpirationDate": 1655614800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "40",
+            "mandatoryInsuranceNumber": "14328300005680",
+            "mandatoryInsuranceExpeditionDate": 1590555600000,
+            "mandatoryInsuranceExpirationDate": 1622005200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1560661200000,
+            "technomechanicalExpirationDate": 1592283600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575476081868,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928319222
+        }
+    },
+    {
+        "id": "92852b0a-e76e-409f-996d-1fa41aaed72e",
+        "plate": "WDY511",
+        "active": true,
+        "internalNumber": "39",
+        "deviceId": "FLO-W7-0103",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCP0HXF3101589",
+        "engineNumber": "N04CUV18364",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250304",
+            "operationCardExpeditionDate": 1601701200000,
+            "operationCardExpirationDate": 1666069200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "39",
+            "mandatoryInsuranceNumber": "14328300009520",
+            "mandatoryInsuranceExpeditionDate": 1601701200000,
+            "mandatoryInsuranceExpirationDate": 1633237200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45550747",
+            "technomechanicalExpeditionDate": 1572930000000,
+            "technomechanicalExpirationDate": 1604552400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575475582006,
+            "updatedBy": "soporte@nebulae.com.co",
+            "updatedAt": 1605123106258
+        }
+    },
+    {
+        "id": "a6257238-cf56-4574-8195-dfb6cf646db8",
+        "plate": "FWL091",
+        "active": true,
+        "internalNumber": "38",
+        "deviceId": "FLO-W7-0049",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10287",
+        "engineNumber": "J05EUA20255",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "241524",
+            "operationCardExpeditionDate": 1591938000000,
+            "operationCardExpirationDate": 1642482000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "38",
+            "mandatoryInsuranceNumber": "14328300004160",
+            "mandatoryInsuranceExpeditionDate": 1583989200000,
+            "mandatoryInsuranceExpirationDate": 1615525200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44569483",
+            "technomechanicalExpeditionDate": 1591938000000,
+            "technomechanicalExpirationDate": 1655010000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575475161051,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928890955
+        }
+    },
+    {
+        "id": "4f96fe8f-e71d-46d5-868d-16271fcd1a28",
+        "plate": "EQT723",
+        "active": true,
+        "internalNumber": "37",
+        "deviceId": "FLO-W7-0102",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTJXX10106",
+        "engineNumber": "J05EUA11256",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "248050",
+            "operationCardExpeditionDate": 1596603600000,
+            "operationCardExpirationDate": 1659675600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "37",
+            "mandatoryInsuranceNumber": "14328300006460",
+            "mandatoryInsuranceExpeditionDate": 1592542800000,
+            "mandatoryInsuranceExpirationDate": 1624165200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1595826000000,
+            "technomechanicalExpirationDate": 1627362000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575474933207,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928935701
+        }
+    },
+    {
+        "id": "ca183d86-6be8-4175-b302-743aefc3c21b",
+        "plate": "FWK932",
+        "active": true,
+        "internalNumber": "36",
+        "deviceId": "FLO-W7-0032",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "OWN",
+        "manufacturer": "HINO",
+        "model": "NPR",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10314",
+        "engineNumber": "JO5EUA20414",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "270149",
+            "operationCardExpeditionDate": 1582693200000,
+            "operationCardExpirationDate": 1645938000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "36",
+            "mandatoryInsuranceNumber": "14328300007860",
+            "mandatoryInsuranceExpeditionDate": 1582261200000,
+            "mandatoryInsuranceExpirationDate": 1612933200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45652846",
+            "technomechanicalExpeditionDate": 1582779600000,
+            "technomechanicalExpirationDate": 1645938000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575474649166,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928969553
+        }
+    },
+    {
+        "id": "43a7dca0-f9c5-4f10-aeeb-998247656c6b",
+        "plate": "TSF450",
+        "active": true,
+        "internalNumber": "35",
+        "deviceId": "FLO-W7-0029",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2008,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CP28B003339",
+        "engineNumber": "E1T143580",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 14
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255862",
+            "operationCardExpeditionDate": 1555736400000,
+            "operationCardExpirationDate": 1618894800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "35",
+            "mandatoryInsuranceNumber": "14328300002810",
+            "mandatoryInsuranceExpeditionDate": 1578027600000,
+            "mandatoryInsuranceExpirationDate": 1609650000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42932160",
+            "technomechanicalExpeditionDate": 1601787600000,
+            "technomechanicalExpirationDate": 1633323600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575474415078,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604928994237
+        }
+    },
+    {
+        "id": "d6f35adc-045e-4c69-9ea6-cad16def7526",
+        "plate": "WDY455",
+        "active": true,
+        "internalNumber": "34",
+        "deviceId": "FLO-W7-0035",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCP0H8F3101591",
+        "engineNumber": "N04CUV18373",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250301",
+            "operationCardExpeditionDate": 1601701200000,
+            "operationCardExpirationDate": 1667624400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "34",
+            "mandatoryInsuranceNumber": "13428300009510",
+            "mandatoryInsuranceExpeditionDate": 1601701200000,
+            "mandatoryInsuranceExpirationDate": 1633237200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "46177717",
+            "technomechanicalExpeditionDate": 1573362000000,
+            "technomechanicalExpirationDate": 1604984400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575474144871,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929081828
+        }
+    },
+    {
+        "id": "138930e0-2154-4f67-8c23-d24834d3168b",
+        "plate": "WDZ468",
+        "active": true,
+        "internalNumber": "33",
+        "deviceId": "FLO-W7-0001",
+        "type": "MICRO-BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "XZU710L-HKFRP1",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3UCP0H7F3102022",
+        "engineNumber": "N04CUV20082",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 19,
+            "standing": 0
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255912",
+            "operationCardExpeditionDate": 1557118800000,
+            "operationCardExpirationDate": 1620277200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "33",
+            "mandatoryInsuranceNumber": "14328300004410",
+            "mandatoryInsuranceExpeditionDate": 1587790800000,
+            "mandatoryInsuranceExpirationDate": 1619326800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43536171",
+            "technomechanicalExpeditionDate": 1592197200000,
+            "technomechanicalExpirationDate": 1623733200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575473827152,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929122377
+        }
+    },
+    {
+        "id": "e647ac04-dc41-4bb0-a31f-db564d401408",
+        "plate": "FWK421",
+        "active": true,
+        "internalNumber": "32",
+        "deviceId": "FLO-W7-0070",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2020,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTLXX10262",
+        "engineNumber": "J05EUA20086",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "273273",
+            "operationCardExpeditionDate": 1570683600000,
+            "operationCardExpirationDate": 1633842000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "32",
+            "mandatoryInsuranceNumber": "76853127-601603492",
+            "mandatoryInsuranceExpeditionDate": 1600318800000,
+            "mandatoryInsuranceExpirationDate": 1631854800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1633842000000,
+            "technomechanicalExpirationDate": 1633842000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575473553284,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929148631
+        }
+    },
+    {
+        "id": "18225a94-adef-4821-92ca-a92cdf00c2f8",
+        "plate": "WMR432",
+        "active": true,
+        "internalNumber": "31",
+        "deviceId": "FLO-W7-0025",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R758HB022676",
+        "engineNumber": "4HK1-511550",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255881",
+            "operationCardExpeditionDate": 1556946000000,
+            "operationCardExpirationDate": 1620104400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "31",
+            "mandatoryInsuranceNumber": "14328300003460",
+            "mandatoryInsuranceExpeditionDate": 1585285200000,
+            "mandatoryInsuranceExpirationDate": 1616821200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43576098",
+            "technomechanicalExpeditionDate": 1592802000000,
+            "technomechanicalExpirationDate": 1624338000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575473240782,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929216413
+        }
+    },
+    {
+        "id": "04cbca5e-1194-4158-aa0c-719a798e464c",
+        "plate": "TSF182",
+        "active": true,
+        "internalNumber": "30",
+        "deviceId": "",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2008,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN98B003143",
+        "engineNumber": "E1T140335",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "30",
+            "mandatoryInsuranceNumber": "143283000010400",
+            "mandatoryInsuranceExpeditionDate": 1573707600000,
+            "mandatoryInsuranceExpirationDate": 1605330000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44719672",
+            "technomechanicalExpeditionDate": 1595394000000,
+            "technomechanicalExpirationDate": 1626930000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575473000066,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604916429625
+        }
+    },
+    {
+        "id": "7246401d-9333-4b73-b49c-337fb0f6c14c",
+        "plate": "FVY679",
+        "active": true,
+        "internalNumber": "29",
+        "deviceId": "FLO-W7-0038",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JGTZ",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JGTKXX10132",
+        "engineNumber": "J05EUA12234",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "264161",
+            "operationCardExpeditionDate": 1559710800000,
+            "operationCardExpirationDate": 1622869200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "29",
+            "mandatoryInsuranceNumber": "14328300005510",
+            "mandatoryInsuranceExpeditionDate": 1590123600000,
+            "mandatoryInsuranceExpirationDate": 1621746000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1559019600000,
+            "technomechanicalExpirationDate": 1622178000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575472764992,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929269530
+        }
+    },
+    {
+        "id": "6cbc23b5-c791-4006-af84-1e689dd495b2",
+        "plate": "SMU154",
+        "active": true,
+        "internalNumber": "28",
+        "deviceId": "FLO-W7-0048",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2010,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9GCNPR716AB206676",
+        "engineNumber": "764675",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "241822",
+            "operationCardExpeditionDate": 1591765200000,
+            "operationCardExpirationDate": 1654837200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "28",
+            "mandatoryInsuranceNumber": "14328300005450",
+            "mandatoryInsuranceExpeditionDate": 1590814800000,
+            "mandatoryInsuranceExpirationDate": 1622350800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44110606",
+            "technomechanicalExpeditionDate": 1594098000000,
+            "technomechanicalExpirationDate": 1625634000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575472395026,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929284833
+        }
+    },
+    {
+        "id": "966c0e76-e418-4204-a11c-c55e279397f9",
+        "plate": "WMR418",
+        "active": true,
+        "internalNumber": "27",
+        "deviceId": "FLO-W7-0026",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R759HB001450",
+        "engineNumber": "4HK1-463884",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255880",
+            "operationCardExpeditionDate": 1556427600000,
+            "operationCardExpirationDate": 1619586000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "27",
+            "mandatoryInsuranceNumber": "AT1329405702640",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42919425",
+            "technomechanicalExpeditionDate": 1591678800000,
+            "technomechanicalExpirationDate": 1623214800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575472063712,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929315366
+        }
+    },
+    {
+        "id": "2e8ac716-3075-4660-893e-132ae2e5b8cf",
+        "plate": "TSG039",
+        "active": true,
+        "internalNumber": "26",
+        "deviceId": "FLO-W7-0104",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2008,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN98B003434",
+        "engineNumber": "E1T144535",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "267189",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "26",
+            "mandatoryInsuranceNumber": "14328300001360",
+            "mandatoryInsuranceExpeditionDate": 1580619600000,
+            "mandatoryInsuranceExpirationDate": 1612328400000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44719652",
+            "technomechanicalExpeditionDate": 1595480400000,
+            "technomechanicalExpirationDate": 1627016400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575471675784,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929339776
+        }
+    },
+    {
+        "id": "2b7152c0-af01-4b33-bfbd-3127d5317cfa",
+        "plate": "WMR174",
+        "active": true,
+        "internalNumber": "25",
+        "deviceId": "FLO-W7-0019",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R757HB001429",
+        "engineNumber": "4HK1-458903",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255869",
+            "operationCardExpeditionDate": 1554354000000,
+            "operationCardExpirationDate": 1617512400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "25",
+            "mandatoryInsuranceNumber": "AT1329405702651",
+            "mandatoryInsuranceExpeditionDate": 1577077200000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931562",
+            "technomechanicalExpeditionDate": 1592024400000,
+            "technomechanicalExpirationDate": 1623560400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575471391984,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929357719
+        }
+    },
+    {
+        "id": "897c2c04-c337-43ab-ad4c-4edc852b3fd2",
+        "plate": "WDY486",
+        "active": true,
+        "internalNumber": "24",
+        "deviceId": "FLO-W7-0028",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2015,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R758FB014218",
+        "engineNumber": "4HK1-239398",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250303",
+            "operationCardExpeditionDate": 1601701200000,
+            "operationCardExpirationDate": 1667019600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "24",
+            "mandatoryInsuranceNumber": "14328300007060",
+            "mandatoryInsuranceExpeditionDate": 1594357200000,
+            "mandatoryInsuranceExpirationDate": 1625893200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1597381200000,
+            "technomechanicalExpirationDate": 1628917200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575471096641,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929370910
+        }
+    },
+    {
+        "id": "3c73a79e-27e2-49b6-a355-8ad9872955fa",
+        "plate": "WMR284",
+        "active": true,
+        "internalNumber": "23",
+        "deviceId": "FLO-W7-0024",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R752HB017019",
+        "engineNumber": "4HK1-501065",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255875",
+            "operationCardExpeditionDate": 1554613200000,
+            "operationCardExpirationDate": 1617771600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "23",
+            "mandatoryInsuranceNumber": "14328300002150",
+            "mandatoryInsuranceExpeditionDate": 1582347600000,
+            "mandatoryInsuranceExpirationDate": 1614142800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42934303",
+            "technomechanicalExpeditionDate": 1592283600000,
+            "technomechanicalExpirationDate": 1623819600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575470792733,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929403194
+        }
+    },
+    {
+        "id": "60b7e04a-9858-4ac1-be6e-b99a39706f8f",
+        "plate": "TNF523",
+        "active": true,
+        "internalNumber": "22",
+        "deviceId": "FLO-W7-0051",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FB4J",
+        "year": 2007,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "JHDFB4JJT7XX10853",
+        "engineNumber": "J05CTE15263",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "271777",
+            "operationCardExpeditionDate": 1568869200000,
+            "operationCardExpirationDate": 1632027600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "22",
+            "mandatoryInsuranceNumber": "14328300009390",
+            "mandatoryInsuranceExpeditionDate": 1601442000000,
+            "mandatoryInsuranceExpirationDate": 1632978000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "41851435",
+            "technomechanicalExpeditionDate": 1582520400000,
+            "technomechanicalExpirationDate": 1614142800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575469703120,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929941573
+        }
+    },
+    {
+        "id": "15699eee-68e6-44ea-81fd-84249f465268",
+        "plate": "EQT901",
+        "active": true,
+        "internalNumber": "21",
+        "deviceId": "FLO-W7-0094",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2018,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R753JB017049",
+        "engineNumber": "4HK1-641018",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "250111",
+            "operationCardExpeditionDate": 1598850000000,
+            "operationCardExpirationDate": 1661922000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "21",
+            "mandatoryInsuranceNumber": "14328300008160",
+            "mandatoryInsuranceExpeditionDate": 1597467600000,
+            "mandatoryInsuranceExpirationDate": 1629003600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1598158800000,
+            "technomechanicalExpirationDate": 1629694800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575469356690,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929982828
+        }
+    },
+    {
+        "id": "231d47e1-affd-4fae-85d0-09b55de3edef",
+        "plate": "TSK549",
+        "active": true,
+        "internalNumber": "20",
+        "deviceId": "FLO-W7-0008",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2010,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN3AB003824",
+        "engineNumber": "E1T146827",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "232727",
+            "operationCardExpeditionDate": 1580446800000,
+            "operationCardExpirationDate": 1643605200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "20",
+            "mandatoryInsuranceNumber": "14328300005670",
+            "mandatoryInsuranceExpeditionDate": 1590382800000,
+            "mandatoryInsuranceExpirationDate": 1621918800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43790478",
+            "technomechanicalExpeditionDate": 1592715600000,
+            "technomechanicalExpirationDate": 1624251600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575469127158,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604929996716
+        }
+    },
+    {
+        "id": "088e9f3c-4cf1-47af-b570-3378dd38cdd6",
+        "plate": "WMR271",
+        "active": true,
+        "internalNumber": "19",
+        "deviceId": "FLO-W7-0012",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R753HB001427",
+        "engineNumber": "4HK1-456630",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255872",
+            "operationCardExpeditionDate": 1554440400000,
+            "operationCardExpirationDate": 1617598800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "19",
+            "mandatoryInsuranceNumber": "AT1329405702662",
+            "mandatoryInsuranceExpeditionDate": 1577163600000,
+            "mandatoryInsuranceExpirationDate": 1608699600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931746",
+            "technomechanicalExpeditionDate": 1591938000000,
+            "technomechanicalExpirationDate": 1623474000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575468620638,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930019576
+        }
+    },
+    {
+        "id": "840046c7-5f9d-438c-874b-e98035eb22ae",
+        "plate": "TSJ729",
+        "active": true,
+        "internalNumber": "18",
+        "deviceId": "FLO-W7-0014",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2010,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CNXAB003805",
+        "engineNumber": "E1T145946",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 11
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "267192",
+            "operationCardExpeditionDate": 1564808400000,
+            "operationCardExpirationDate": 1627966800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "18",
+            "mandatoryInsuranceNumber": "1432800005190",
+            "mandatoryInsuranceExpeditionDate": 1589605200000,
+            "mandatoryInsuranceExpirationDate": 1621141200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44720974",
+            "technomechanicalExpeditionDate": 1566795600000,
+            "technomechanicalExpirationDate": 1598418000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575467283552,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930080033
+        }
+    },
+    {
+        "id": "9592fe4d-9f2e-4049-be8b-d2a0c10abef9",
+        "plate": "TPZ510",
+        "active": true,
+        "internalNumber": "17",
+        "deviceId": "FLO-W7-0097",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2008,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9GCNPR7128B010762",
+        "engineNumber": "505344",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 29,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "267188",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "17",
+            "mandatoryInsuranceNumber": "14328300000070",
+            "mandatoryInsuranceExpeditionDate": 1590210000000,
+            "mandatoryInsuranceExpirationDate": 1621746000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45527852",
+            "technomechanicalExpeditionDate": 1594702800000,
+            "technomechanicalExpirationDate": 1626238800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575466151864,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930096129
+        }
+    },
+    {
+        "id": "35c21ec6-65a2-405a-b2b0-42a1b307a279",
+        "plate": "TSJ732",
+        "active": true,
+        "internalNumber": "16",
+        "deviceId": "",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2008,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN48B003471",
+        "engineNumber": "E1T144688",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 11
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "267193",
+            "operationCardExpeditionDate": 1565499600000,
+            "operationCardExpirationDate": 1628658000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "16",
+            "mandatoryInsuranceNumber": "14328300003650",
+            "mandatoryInsuranceExpeditionDate": 1585803600000,
+            "mandatoryInsuranceExpirationDate": 1617339600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44720643",
+            "technomechanicalExpeditionDate": 1597813200000,
+            "technomechanicalExpirationDate": 1629349200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575465835155,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604916422261
+        }
+    },
+    {
+        "id": "1848d4a3-ca16-413c-95ff-71223d7ce98b",
+        "plate": "WDW931",
+        "active": true,
+        "internalNumber": "15",
+        "deviceId": "FLO-W7-0069",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JKTZ",
+        "year": 2014,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JKTEXX10102",
+        "engineNumber": "JO5EUA10196",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "232137",
+            "operationCardExpeditionDate": 1577336400000,
+            "operationCardExpirationDate": 1640494800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "15",
+            "mandatoryInsuranceNumber": "14328300009570",
+            "mandatoryInsuranceExpeditionDate": 1602046800000,
+            "mandatoryInsuranceExpirationDate": 1633582800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "41168611",
+            "technomechanicalExpeditionDate": 1576645200000,
+            "technomechanicalExpirationDate": 1608267600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575465222182,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930131104
+        }
+    },
+    {
+        "id": "2132cc3d-849b-4a39-baf0-073ae12aeae3",
+        "plate": "TSE762",
+        "active": true,
+        "internalNumber": "14",
+        "deviceId": "FLO-W7-0036",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2008,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN18B003136",
+        "engineNumber": "E1T140323",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "14",
+            "mandatoryInsuranceNumber": "14328300009030",
+            "mandatoryInsuranceExpeditionDate": 1600491600000,
+            "mandatoryInsuranceExpirationDate": 1632027600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44720236",
+            "technomechanicalExpeditionDate": 1596517200000,
+            "technomechanicalExpirationDate": 1628053200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575464894708,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930159521
+        }
+    },
+    {
+        "id": "28ce9bda-75d7-4f1c-af47-1ba428a95aad",
+        "plate": "TPT995",
+        "active": true,
+        "internalNumber": "13",
+        "deviceId": "FLO-W7-0033",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FB4J",
+        "year": 2006,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "JHDFB4JJT6XX10556",
+        "engineNumber": "J05CTE14914",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265595",
+            "operationCardExpeditionDate": 1566363600000,
+            "operationCardExpirationDate": 1629522000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "13",
+            "mandatoryInsuranceNumber": "143283000010860",
+            "mandatoryInsuranceExpeditionDate": 1575349200000,
+            "mandatoryInsuranceExpirationDate": 1606885200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1575954000000,
+            "technomechanicalExpirationDate": 1607576400000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575464548351,
+            "updatedBy": "david.ramirez@nebulae.com.co",
+            "updatedAt": 1601564625522
+        }
+    },
+    {
+        "id": "2038bb93-ecd9-47f2-a287-06709ba10eaf",
+        "plate": "TSJ352",
+        "active": true,
+        "internalNumber": "12",
+        "deviceId": "FLO-W7-0078",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2010,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "BLUE",
+            "RED"
+        ],
+        "chassisNumber": "9CNC03CN3AB003807",
+        "engineNumber": "E1T145995",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "260535",
+            "operationCardExpeditionDate": 1560920400000,
+            "operationCardExpirationDate": 1624078800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "12",
+            "mandatoryInsuranceNumber": "14328300003390",
+            "mandatoryInsuranceExpeditionDate": 1585198800000,
+            "mandatoryInsuranceExpirationDate": 1616734800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43537419",
+            "technomechanicalExpeditionDate": 1592629200000,
+            "technomechanicalExpirationDate": 1624165200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575464044515,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930210115
+        }
+    },
+    {
+        "id": "a9378375-4226-4e55-9ed9-7e774c3d1f17",
+        "plate": "TPV632",
+        "active": true,
+        "internalNumber": "11",
+        "deviceId": "FLO-W7-0055",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2007,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9CNC03CN27B002513",
+        "engineNumber": "E1T128372",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265596",
+            "operationCardExpeditionDate": 1566363600000,
+            "operationCardExpirationDate": 1629522000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "11",
+            "mandatoryInsuranceNumber": "14328300007120",
+            "mandatoryInsuranceExpeditionDate": 1594443600000,
+            "mandatoryInsuranceExpirationDate": 1625979600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "44111334",
+            "technomechanicalExpeditionDate": 1593925200000,
+            "technomechanicalExpirationDate": 1625461200000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575384227869,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930239015
+        }
+    },
+    {
+        "id": "2e638ace-fa62-4bf6-a338-5a9da45d4fc0",
+        "plate": "EQT725",
+        "active": true,
+        "internalNumber": "10",
+        "deviceId": "FLO-W7-0087",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R75XKB000380",
+        "engineNumber": "4HK1-663975",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "246446",
+            "operationCardExpeditionDate": 1595566800000,
+            "operationCardExpirationDate": 1658638800000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "10",
+            "mandatoryInsuranceNumber": "13428300007270",
+            "mandatoryInsuranceExpeditionDate": 1594616400000,
+            "mandatoryInsuranceExpirationDate": 1626152400000,
+            "mandatoryInsuranceIssuer": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1594789200000,
+            "technomechanicalExpirationDate": 1626325200000,
+            "technomechanicalIssuer": "Secretaria de Transportes y Transito Medellin (Ant)"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575383487524,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930259772
+        }
+    },
+    {
+        "id": "673fd984-c766-49f5-9e0c-2a0d99e67c7f",
+        "plate": "TPR594",
+        "active": true,
+        "internalNumber": "09",
+        "deviceId": "FLO-W7-0064",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NPR",
+        "year": 2005,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [],
+        "chassisNumber": "9GCNPR7195B005490",
+        "engineNumber": "172584",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 29,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265349",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "09",
+            "mandatoryInsuranceNumber": "14328300001650",
+            "mandatoryInsuranceExpeditionDate": 1581397200000,
+            "mandatoryInsuranceExpirationDate": 1613019600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42930626",
+            "technomechanicalExpeditionDate": 1583643600000,
+            "technomechanicalExpirationDate": 1615179600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575382535578,
+            "updatedBy": "juan.diegortiz",
+            "updatedAt": 1586651424931
+        }
+    },
+    {
+        "id": "b093ce5a-96e1-4771-9253-f8ec2d3fde82",
+        "plate": "TPV890",
+        "active": true,
+        "internalNumber": "08",
+        "deviceId": "FLO-W7-0044",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5 TCA",
+        "year": 2007,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "BLUE",
+            "RED"
+        ],
+        "chassisNumber": "9CNC03CN17B002518",
+        "engineNumber": "E1T128373",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "227264",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "08",
+            "mandatoryInsuranceNumber": "14328300006370",
+            "mandatoryInsuranceExpeditionDate": 1592456400000,
+            "mandatoryInsuranceExpirationDate": 1623992400000,
+            "mandatoryInsuranceIssuer": "Seguro de Estado SA",
+            "technomechanicalNumber": "43537485",
+            "technomechanicalExpeditionDate": 1592542800000,
+            "technomechanicalExpirationDate": 1624078800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575381909405,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930306169
+        }
+    },
+    {
+        "id": "4a0ffcfc-cc13-4ee5-8d07-d87182c92764",
+        "plate": "EQS315",
+        "active": true,
+        "internalNumber": "07",
+        "deviceId": "FLO-W7-0079",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2019,
+        "emissionsStandard": "OTHER",
+        "schemaType": "NONE",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R751HB032062",
+        "engineNumber": "4HK1530364",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "269793",
+            "operationCardExpeditionDate": 1567659600000,
+            "operationCardExpirationDate": 1630818000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "07",
+            "mandatoryInsuranceNumber": "1428300007370",
+            "mandatoryInsuranceExpeditionDate": 1594962000000,
+            "mandatoryInsuranceExpirationDate": 1626498000000,
+            "mandatoryInsuranceIssuer": "Seguro del estado SA",
+            "technomechanicalNumber": "44721210",
+            "technomechanicalExpeditionDate": 1598763600000,
+            "technomechanicalExpirationDate": 1630299600000,
+            "technomechanicalIssuer": ""
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575381568404,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930330155
+        }
+    },
+    {
+        "id": "7e9bac95-e083-4f2b-9a6e-7cbc2a95e67d",
+        "plate": "WMR171",
+        "active": true,
+        "internalNumber": "06",
+        "deviceId": "FLO-W7-0009",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R751HB018825",
+        "engineNumber": "4HK1-503929",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255867",
+            "operationCardExpeditionDate": 1554526800000,
+            "operationCardExpirationDate": 1617685200000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "06",
+            "mandatoryInsuranceNumber": "13428300002920",
+            "mandatoryInsuranceExpeditionDate": 1583730000000,
+            "mandatoryInsuranceExpirationDate": 1615611600000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "42931819",
+            "technomechanicalExpeditionDate": 1592110800000,
+            "technomechanicalExpirationDate": 1623646800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575381098801,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930387490
+        }
+    },
+    {
+        "id": "c87708db-cf01-430d-9087-503b9a173461",
+        "plate": "FWK099",
+        "active": true,
+        "internalNumber": "05",
+        "deviceId": "FLO-W7-0067",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FC9JKUZ",
+        "year": 2019,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9F3FC9JKUKXX10142",
+        "engineNumber": "J05EUS10442",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "272542",
+            "operationCardExpeditionDate": 1566882000000,
+            "operationCardExpirationDate": 1630040400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "05",
+            "mandatoryInsuranceNumber": "",
+            "mandatoryInsuranceExpeditionDate": 1594962000000,
+            "mandatoryInsuranceExpirationDate": 1626584400000,
+            "mandatoryInsuranceIssuer": "",
+            "technomechanicalNumber": "",
+            "technomechanicalExpeditionDate": 1566622800000,
+            "technomechanicalExpirationDate": 1629781200000,
+            "technomechanicalIssuer": ""
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575380775660,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930409273
+        }
+    },
+    {
+        "id": "142529e1-5d57-4c59-b135-d9dd64d4612c",
+        "plate": "TPV509",
+        "active": true,
+        "internalNumber": "04",
+        "deviceId": "FLO-W7-0031",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "HINO",
+        "model": "FB4J",
+        "year": 2006,
+        "emissionsStandard": "EURO 2",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "JHDFB4JGT6XX12549",
+        "engineNumber": "J05CTE15002",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265350",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "04",
+            "mandatoryInsuranceNumber": "143283000006010",
+            "mandatoryInsuranceExpeditionDate": 1591419600000,
+            "mandatoryInsuranceExpirationDate": 1622869200000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "45550471",
+            "technomechanicalExpeditionDate": 1571979600000,
+            "technomechanicalExpirationDate": 1603602000000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575379914974,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930421437
+        }
+    },
+    {
+        "id": "c204300b-2866-495f-9505-5391ed18cea2",
+        "plate": "TSE620",
+        "active": true,
+        "internalNumber": "03",
+        "deviceId": "FLO-W7-0050",
+        "type": "BUSETA",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "AGRALE",
+        "model": "MA 8.5TCA PLUS E",
+        "year": 2008,
+        "emissionsStandard": "EURO 3",
+        "schemaType": "CLASSIC",
+        "colors": [
+            "WHITE",
+            "RED",
+            "BLUE"
+        ],
+        "chassisNumber": "9CNC03CN38B003137",
+        "engineNumber": "E1T140322",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 12
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "265352",
+            "operationCardExpeditionDate": 1566018000000,
+            "operationCardExpirationDate": 1629176400000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "03",
+            "mandatoryInsuranceNumber": "143283000008870",
+            "mandatoryInsuranceExpeditionDate": 1599714000000,
+            "mandatoryInsuranceExpirationDate": 1631250000000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43791483",
+            "technomechanicalExpeditionDate": 1592715600000,
+            "technomechanicalExpirationDate": 1624251600000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575377027967,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930448632
+        }
+    },
+    {
+        "id": "dc93cd24-f617-4047-9733-0cd8e68933f2",
+        "plate": "STW713",
+        "active": true,
+        "internalNumber": "02",
+        "deviceId": "FLO-W7-0099",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2013,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R758DB002938",
+        "engineNumber": "4HK1-965975",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 24,
+            "standing": 13
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "241202",
+            "operationCardExpeditionDate": 1590987600000,
+            "operationCardExpirationDate": 1654059600000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "02",
+            "mandatoryInsuranceNumber": "14328300004740",
+            "mandatoryInsuranceExpeditionDate": 1587790800000,
+            "mandatoryInsuranceExpirationDate": 1619326800000,
+            "mandatoryInsuranceIssuer": "Seguros del Estado SA",
+            "technomechanicalNumber": "43536607",
+            "technomechanicalExpeditionDate": 1592542800000,
+            "technomechanicalExpirationDate": 1624078800000,
+            "technomechanicalIssuer": "Comercializadora ServiSuper LTDA"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575212787682,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930472130
+        }
+    },
+    {
+        "id": "6e7a8cb9-b4b6-4384-8799-ec17f683f2f1",
+        "plate": "WMR168",
+        "active": true,
+        "internalNumber": "01",
+        "deviceId": "FLO-W7-0081",
+        "type": "BUS",
+        "organizationId": "35128dcd-2112-4575-8e29-59605f6dd829",
+        "ownership": "AFFILIATE",
+        "manufacturer": "CHEVROLET",
+        "model": "NQR",
+        "year": 2017,
+        "emissionsStandard": "EURO 4",
+        "schemaType": "FLOWER",
+        "colors": [
+            "WHITE",
+            "RED"
+        ],
+        "chassisNumber": "9GCN1R755HB018827",
+        "engineNumber": "4HK1-503957",
+        "fuelRangeWithFullTank": 0,
+        "companyId": "85d7731c-5d13-418d-b2d1-8c8b896ff469",
+        "capacity": {
+            "seated": 28,
+            "standing": 22
+        },
+        "regulatoryCompliance": {
+            "operationCardNumber": "255866",
+            "operationCardExpeditionDate": 1552885200000,
+            "operationCardExpirationDate": 1614834000000,
+            "operationCardCompany": "Secretaria de Transportes y Transito Medellin (Ant)",
+            "operationCardInternalNumber": "01",
+            "mandatoryInsuranceNumber": "",
+            "mandatoryInsuranceExpeditionDate": 1581397200000,
+            "mandatoryInsuranceExpirationDate": 1613019600000,
+            "mandatoryInsuranceIssuer": "Seguros Liberty",
+            "technomechanicalNumber": "42931561",
+            "technomechanicalExpeditionDate": 1592024400000,
+            "technomechanicalExpirationDate": 1623560400000,
+            "technomechanicalIssuer": "Comercializadora Servisuper Ltda"
+        },
+        "metadata": {
+            "createdBy": "carlos.garcia",
+            "createdAt": 1575124669688,
+            "updatedBy": "ricardo.castrillon",
+            "updatedAt": 1604930483593
+        }
+    }
+]
